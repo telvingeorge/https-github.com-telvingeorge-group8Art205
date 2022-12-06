@@ -1,0 +1,149 @@
+body{
+    font-family: latha;
+    color: #ffffff;
+}
+     #home{
+      background: url(images/background6.JPG); 
+      background-size: 300vh;
+      background-repeat: no-repeat;
+     } 
+  .box{
+    width: 900px; 
+    float: right; 
+    border: 1px solid black;
+    background-color: silver;
+  }
+
+  .box ul li{
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+  }
+  .box ul li a{
+    text-decoration: none;
+    color: black;
+  }
+  .box ul li:hover{
+    background-color: goldenrod
+    ;
+  }
+  .box ul li a:hover{
+    color: #ffffff;
+  }
+  .home{
+    display: bottom; 
+    padding-bottom:left;
+  }
+.home span{
+  background-color:goldenrod; 
+  color:#000000; 
+  font-size:x-large;
+}
+.open{
+  display: middle; 
+  text-align: center; 
+  font-size:110px; 
+  font-family:papyrus; 
+  Color: #1aeff7
+}
+.rest{
+  text-align: center;
+}
+button{
+  font-size:xx-large; 
+  color: #ffffff; 
+  background-color: goldenrod;
+}
+.content{
+   color:#ffffff; 
+   padding: 64px; 
+   font-size: x-large; 
+   float: center;
+}
+.content h1{
+  margin-bottom:64px; 
+  font-family:brush script MT;  
+  text-align: center; 
+}
+.content h2{
+text-align: center; 
+font-size: 60px; 
+font-family: curiz mt; 
+}
+.table1{
+background-color: darkgrey
+}
+.table2{
+background-color: blueviolet
+}
+.table3{
+background-color: rgb(39, 131, 161);
+}
+  
+  #about{
+     
+    color:rgba(84, 17, 243, 0.911); 
+    padding: 64px; 
+    font-size: x-large; 
+  }
+  #about h1{
+    margin-bottom:64px; 
+    font-family:brush script MT;
+    text-align: center;
+    font-size: 50px;
+  }
+  #about p{
+    font-family:brush script MT ;  
+    Text-align: center; 
+    font-size: 40px;"
+  }
+  .history{
+    font-size: 30px;"
+  }
+  .RSVP{
+    background-color: #ca0000; 
+    color:black; 
+    padding: 64px; 
+    font-size:30px; 
+  }
+  .RSVP h1{
+    margin-bottom:64px; 
+    text-align: center;
+    font-family:brush script MT;
+  }
+  #maps{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+     color: #000000;
+     text-align: justify;
+  }
+  .container{
+    width: 100%;
+    height: 100px
+    display; flex:
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .container h1{
+    color:#ca0000
+    margin: bottom 60px;
+  }
+  iframe{
+    width: 60%;
+    height: 400px;
+    filter: invert(100%);
+    align-items: center;
+  }
+  .orders{
+    text-align: center;
+  }
+  a{
+    text-decoration: none;
+  }
+  .time{
+    font-family: papyrus;
+  }
